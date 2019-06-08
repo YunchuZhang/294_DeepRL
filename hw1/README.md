@@ -1,4 +1,7 @@
 # CS294-112 HW 1: Imitation Learning
+Utilize Dagger with FullyConnected Layers to compaired with Bc in Humanoid-v2 env.Although it is hard to acheive expert level,it still shows Dagger has good behavior.
+
+![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/gif.png)
 
 Dependencies:
  * Python **3.5**
