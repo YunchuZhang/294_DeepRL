@@ -1,7 +1,11 @@
 # CS294-112 HW 1: Imitation Learning
 Utilize Dagger with FullyConnected Layers to compaired with Bc in Humanoid-v2 env.Although it is hard to acheive expert level,it still shows Dagger has good behavior.
 
-![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/gif.png)
+![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/gif.png) 
+With LSTM in original behavior cloning, it could show some inproves campaired with basic model,even at some times could finsh the whole task but not stable at all time.
+
+[Demo1](https://www.youtube.com/watch?v=nMZADG0Wqkw)    
+[Demo2](https://www.youtube.com/watch?v=xrp3J92D0BA)
 
 Dependencies:
  * Python **3.5**
