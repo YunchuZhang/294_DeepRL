@@ -6,7 +6,11 @@ With LSTM in original behavior cloning, it could show some inproves campaired wi
 
 [Demo1](https://www.youtube.com/watch?v=nMZADG0Wqkw)    
 [Demo2](https://www.youtube.com/watch?v=xrp3J92D0BA)  
-![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/lstm.png)
+![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/lstm.png)  
+With Dagger plus Lstm, th agent is pretty intelligent and could acheive expert level to finish goals every times  
+![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/Dagger_Lstm.png) 
+![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/lstmda.png)
+[Demo](https://youtu.be/yyN-JpR5oHk)
 
 Dependencies:
  * Python **3.5**
