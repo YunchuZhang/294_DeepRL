@@ -5,7 +5,8 @@ Utilize Dagger with FullyConnected Layers to compaired with Bc in Humanoid-v2 en
 With LSTM in original behavior cloning, it could show some inproves campaired with basic model,even at some times could finsh the whole task but not stable at all time.
 
 [Demo1](https://www.youtube.com/watch?v=nMZADG0Wqkw)    
-[Demo2](https://www.youtube.com/watch?v=xrp3J92D0BA)
+[Demo2](https://www.youtube.com/watch?v=xrp3J92D0BA)  
+![image](https://github.com/YunchuZhang/294_DeepRL/blob/master/hw1/lstm.png)
 
 Dependencies:
  * Python **3.5**
